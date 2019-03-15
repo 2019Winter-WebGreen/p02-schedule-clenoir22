@@ -1,0 +1,24 @@
+/*
+* courtney lenoir
+* 3/15/18
+* School Schedule
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+body {background-color:dimgrey
+
+}
+table, td, th { border: 1px solid blue;}
+/* this formats my table*/
+table{ border-collapse: collapse;}
+/* this formats my tfoot section*/
+thead { background-color: cadetblue;}
+/* this formats my tfoot section*/
+tfoot { background-color:aquamarine;}
+/* this formats my tbody section*/
+tbody{ background-color: cornflowerblue}
